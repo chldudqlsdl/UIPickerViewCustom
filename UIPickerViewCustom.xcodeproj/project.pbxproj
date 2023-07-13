@@ -11,6 +11,7 @@
 		D9F05C4D2A603EA800969B5B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9F05C4C2A603EA800969B5B /* ContentView.swift */; };
 		D9F05C4F2A603EA800969B5B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D9F05C4E2A603EA800969B5B /* Assets.xcassets */; };
 		D9F05C522A603EA800969B5B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D9F05C512A603EA800969B5B /* Preview Assets.xcassets */; };
+		D9F05C592A60433600969B5B /* CustomPickerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9F05C582A60433600969B5B /* CustomPickerViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		D9F05C4C2A603EA800969B5B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D9F05C4E2A603EA800969B5B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D9F05C512A603EA800969B5B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D9F05C582A60433600969B5B /* CustomPickerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomPickerViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				D9F05C4A2A603EA800969B5B /* UIPickerViewCustomApp.swift */,
 				D9F05C4C2A603EA800969B5B /* ContentView.swift */,
+				D9F05C582A60433600969B5B /* CustomPickerViewController.swift */,
 				D9F05C4E2A603EA800969B5B /* Assets.xcassets */,
 				D9F05C502A603EA800969B5B /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D9F05C4D2A603EA800969B5B /* ContentView.swift in Sources */,
+				D9F05C592A60433600969B5B /* CustomPickerViewController.swift in Sources */,
 				D9F05C4B2A603EA800969B5B /* UIPickerViewCustomApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
